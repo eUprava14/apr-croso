@@ -3482,7 +3482,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQ4LyGrQaGyE="
 									},
-									"name": "Firm f"
+									"name": "Firm f",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -9851,12 +9852,12 @@
 										"$ref": "AAAAAAGHQl79HCnhzHM="
 									},
 									"font": "Arial;13;0",
-									"left": 231,
-									"top": 735,
+									"left": 176,
+									"top": 744,
 									"width": 55.65625,
 									"height": 13,
-									"alpha": 3.904044128945402,
-									"distance": 23.194827009486403,
+									"alpha": 0.783120466852206,
+									"distance": 33.37663853655727,
 									"hostEdge": {
 										"$ref": "AAAAAAGHQl79HCnj6ik="
 									},
@@ -11675,7 +11676,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 240,
-											"top": -16,
+											"top": -32,
 											"height": 13
 										},
 										{
@@ -11686,7 +11687,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 1013,
-											"top": 15,
+											"top": 7,
 											"width": 887,
 											"height": 13,
 											"text": "APR Service"
@@ -11700,7 +11701,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 240,
-											"top": -16,
+											"top": -32,
 											"width": 127.1435546875,
 											"height": 13,
 											"text": "(from UseCaseModel)"
@@ -11714,14 +11715,13 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 240,
-											"top": -16,
+											"top": -32,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1008,
-									"top": 8,
 									"width": 897,
 									"height": 25,
 									"stereotypeLabel": {
@@ -11740,7 +11740,6 @@
 							],
 							"font": "Arial;13;0",
 							"left": 1008,
-							"top": 8,
 							"width": 897,
 							"height": 473,
 							"nameCompartment": {
@@ -12438,7 +12437,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -74,
-											"top": 160,
+											"top": 176,
 											"height": 13
 										},
 										{
@@ -12448,9 +12447,9 @@
 												"$ref": "AAAAAAGHQ3DAglfdX4s="
 											},
 											"font": "Arial;13;1",
-											"left": 1480,
-											"top": 411.5,
-											"width": 118,
+											"left": 1473.5,
+											"top": 419.5,
+											"width": 126,
 											"height": 13,
 											"text": "VerifyProvidedData"
 										},
@@ -12463,7 +12462,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -74,
-											"top": 160,
+											"top": 176,
 											"width": 127.1435546875,
 											"height": 13,
 											"text": "(from UseCaseModel)"
@@ -12477,15 +12476,15 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -74,
-											"top": 160,
+											"top": 176,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 1475,
-									"top": 404.5,
-									"width": 129.21533203125,
+									"left": 1468.5,
+									"top": 412.5,
+									"width": 136,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHQ3DAglfeNK0="
@@ -12512,7 +12511,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -37,
-									"top": 80,
+									"top": 88,
 									"width": 10,
 									"height": 10
 								},
@@ -12528,7 +12527,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -37,
-									"top": 80,
+									"top": 88,
 									"width": 10,
 									"height": 10
 								},
@@ -12544,7 +12543,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -37,
-									"top": 80,
+									"top": 88,
 									"width": 10,
 									"height": 10
 								},
@@ -12560,7 +12559,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -37,
-									"top": 80,
+									"top": 88,
 									"width": 10,
 									"height": 10
 								},
@@ -12576,16 +12575,16 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -37,
-									"top": 80,
+									"top": 88,
 									"width": 10,
 									"height": 10
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 1448,
-							"top": 400,
-							"width": 182,
+							"left": 1440,
+							"top": 408,
+							"width": 193,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGHQ3DAglfdX4s="
@@ -12629,7 +12628,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1550,
+									"left": 1551,
 									"top": 201,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -12649,8 +12648,8 @@
 										"$ref": "AAAAAAGHQ3G/uHCIuWk="
 									},
 									"font": "Arial;13;0",
-									"left": 1479,
-									"top": 136,
+									"left": 1480,
+									"top": 135,
 									"width": 55.65625,
 									"height": 13,
 									"alpha": -2.7275938741277903,
@@ -12691,7 +12690,7 @@
 								"$ref": "AAAAAAGHQYhOMBw0Rwk="
 							},
 							"lineStyle": 1,
-							"points": "1529:208;1536:208;1538:399",
+							"points": "1529:208;1536:208;1536:407",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGHQ3G/uXCLTlg="
@@ -12723,8 +12722,8 @@
 										"$ref": "AAAAAAGHQ3L5+ZqN6tY="
 									},
 									"font": "Arial;13;0",
-									"left": 1228,
-									"top": 426,
+									"left": 1223,
+									"top": 429,
 									"width": 111.66162109375,
 									"height": 13,
 									"alpha": -1.6798095106210782,
@@ -12746,8 +12745,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1283,
-									"top": 386,
+									"left": 1279,
+									"top": 390,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -12767,8 +12766,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1284,
-									"top": 430,
+									"left": 1280,
+									"top": 434,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -12789,7 +12788,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1147,
-									"top": 404,
+									"top": 405,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -12809,8 +12808,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1149,
-									"top": 391,
+									"left": 1150,
+									"top": 392,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -12831,7 +12830,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1143,
-									"top": 432,
+									"top": 433,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -12851,8 +12850,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1420,
-									"top": 398,
+									"left": 1412,
+									"top": 404,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -12871,8 +12870,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1418,
-									"top": 385,
+									"left": 1410,
+									"top": 390,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -12891,8 +12890,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1425,
-									"top": 425,
+									"left": 1417,
+									"top": 431,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -12939,7 +12938,7 @@
 								"$ref": "AAAAAAGHQ28I6gwwzBk="
 							},
 							"lineStyle": 1,
-							"points": "1122:426;1447:419",
+							"points": "1122:427;1439:425",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGHQ3L5+ZqSY0w="
@@ -13394,8 +13393,8 @@
 										"$ref": "AAAAAAGHQ3ZFqvGxTAY="
 									},
 									"font": "Arial;13;0",
-									"left": 1623,
-									"top": 344,
+									"left": 1622,
+									"top": 341,
 									"width": 124.64892578125,
 									"height": 13,
 									"alpha": 2.7807950704614157,
@@ -13417,7 +13416,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 1632,
-									"top": 366,
+									"top": 365,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": 2.1306607480155675,
@@ -13439,7 +13438,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1624,
+									"left": 1623,
 									"top": 341,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -13458,7 +13457,7 @@
 								"$ref": "AAAAAAGHQ3WPXeA/Bdw="
 							},
 							"lineStyle": 1,
-							"points": "1743:361;1632:360;1568:399",
+							"points": "1743:361;1632:360;1563:407",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGHQ3ZFq/G063g="
@@ -13554,7 +13553,7 @@
 								"$ref": "AAAAAAGHQ3XNIeKJSws="
 							},
 							"lineStyle": 1,
-							"points": "1825:443;1824:464;1536:464;1537:435",
+							"points": "1825:443;1824:464;1536:464;1536:443",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGHQ3bccgYlOxg="
@@ -13715,7 +13714,8 @@
 										"$ref": "AAAAAAGHQYjTDB1w1C0="
 									}
 								}
-							]
+							],
+							"documentation": "Steps: \n\nPress the register button.\n\nPreconditions:\n\nUser does not already possess an account, as ID Num is unique.\n\nPostconditions: \nA register-form opens up."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -13723,7 +13723,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGHQoYFd90NCV4="
 							},
-							"name": "ProvidePersonalInfo"
+							"name": "ProvidePersonalInfo",
+							"documentation": "Steps:\n\nUser enters required data in the form fields.\n\nPreconditions: \n\nUser enters valid ID Num, that is not already registered, and a strong password.\n\nPostconditions: \n\nUser not possesses an account and can login to the government services, as a regular user."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -13747,7 +13748,8 @@
 										"$ref": "AAAAAAGHQYzTfEtKojU="
 									}
 								}
-							]
+							],
+							"documentation": "Preconditions:\n\nUser has a registered account.\nUser is currently not logged in.\n\nPostconditions: \nA form opens up, requiring valid credentials from user."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -13755,7 +13757,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGHQoYFd90NCV4="
 							},
-							"name": "EnterValidCredentials"
+							"name": "EnterValidCredentials",
+							"documentation": "Steps: \nUser enters his (valid) ID Num & password in the form fields.\n\nPreconditions:\n\nUser has valid credentials in the system.\n\nPostconditions:\n\nUser is logged in to all the services."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -13763,7 +13766,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGHQoYFd90NCV4="
 							},
-							"name": "Logout"
+							"name": "Logout",
+							"documentation": "Preconditions: \n\nUser was previously logged in, with a valid (non-expired) session.\n\nPostcondition:\nUser is signed out of all the services."
 						},
 						{
 							"_type": "UMLActor",
@@ -13900,7 +13904,8 @@
 								}
 							]
 						}
-					]
+					],
+					"documentation": "Preconditions:\n\nUser is not logged in and has a registered account.\n\nPostconditions:\n\nUser is logged in and can interact with the services in according to their roles."
 				},
 				{
 					"_type": "UMLUseCaseSubject",
@@ -13931,7 +13936,8 @@
 										"$ref": "AAAAAAGHQYhOLxwyFYA="
 									}
 								}
-							]
+							],
+							"documentation": "Steps: \n\nLogged user can click a button to open a request-form.\n\nPreconditions:\n\nAny logged user can access the feature.\n\nPostconditions:\n\nA request-form opens up, which requires Firm data to be entered for registration in the APR Service."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -13939,7 +13945,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGHQoqxjmxchjM="
 							},
-							"name": "CompaniesOverview"
+							"name": "CompaniesOverview",
+							"documentation": "Steps:\n\nHomepage window that appears by default when a user opens the website.\n\nPreconditions:\n\nNone.\n\nPostconditions:\n\nUser has insight in all of the registered Firms and Companies.\nUser can view, but not edit Firms other than his own."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -13962,7 +13969,8 @@
 										"$ref": "AAAAAAGHQ3DAglfaqlg="
 									}
 								}
-							]
+							],
+							"documentation": "Steps:\n\nLogged user is required to fill each form field with data about their new Company.\n\nUser presses submit Form to file a request.\n\nPreconditions: \n\nNone.\n\nPostconditions:\n\nA request was submitted, which will be verified by a Verificator."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -13985,7 +13993,8 @@
 										"$ref": "AAAAAAGHQYIsQ97Cym0="
 									}
 								}
-							]
+							],
+							"documentation": "Steps:\n\nUser clicks on 1 of the Firms displayed.\n\nPreconditions:\nNone.\n\nPostconditions:\n\nUser can see more details about the chosen Firm/Company."
 						}
 					]
 				},
@@ -14054,7 +14063,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGHQo/hthSpFQo="
 							},
-							"name": "ShutdownOwnCompany"
+							"name": "ShutdownOwnCompany",
+							"documentation": "Steps:\n\nEmployer chooses from a list of their existing active Firms.\n\nEmployer then confirms shutting down their chosen Company.\n\nPreconditions:\n\nUser has to currently have an open Company in order to select it and shut it down.\n\nPostconditions:\n\nThe chosen Firm is deactivated & is no longer available for Regular users to View."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -14150,7 +14160,8 @@
 										"$ref": "AAAAAAGHQzgndsTsnLY="
 									}
 								}
-							]
+							],
+							"documentation": "Steps:\n\nEmployer presses the \"Contribution Payments\" button to open a form.\n\nEmployer fills all the required fields.\n\nEmployer submits the payment for the month, making all the necessary  payments.\n\nPreconditions:\n\nEmployer hasn't yet made Contribution payments for chosen Company, for the current month.\n\nPostconditions:\n\nAll the input payments made, are saved for the current month, to be viewed by any User on the CROSO service website.\nPayments fields that were skipped  are included in the payment Report (and the Value of said payments will be saved as 0.00)."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -14182,7 +14193,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGHQo/hthSpFQo="
 							},
-							"name": "ViewEmployerPayments"
+							"name": "ViewEmployerPayments",
+							"documentation": "Steps:\n\nLogged user loads the CROSO service website.\n\nLogged user presses the \n\"Check payments\" button.\n\nPreconditions:\n\nLogged user has to have worked in at least 1 company (otherwise he wouldn't exist in the CROSO database, and wouldn't be able to login in the 1st place).\n\nPostconditions:\n\nLogged user gets an insight into their Employers' past Payments and its details."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -14205,7 +14217,8 @@
 										"$ref": "AAAAAAGHQmlTnV6abIg="
 									}
 								}
-							]
+							],
+							"documentation": "Steps:\n\nUser chooses to generate a Payments report on a monthly basis (fixed period, chosen month).\n\nPreconditions:\n\nUser has to have worked for a Company in the selected month for a report to be shown.\n\nPostconditions:\n\nUser sees a generated report with all the details of Payments made for that month by his Employer."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -14228,7 +14241,8 @@
 										"$ref": "AAAAAAGHQmdeRUq4l30="
 									}
 								}
-							]
+							],
+							"documentation": "Steps:\n\nUser chooses to view Employer's payments for a specific timeline .\n\nPreconditions:\n\nUser worked or is currently working in at least 1 Company in the selected timeline range.\n\nPostconditions:\n\nUser sees all the Payments by his Employers, regarding all the Companies they have worked for during the selected timeline."
 						},
 						{
 							"_type": "UMLUseCase",
@@ -14251,7 +14265,8 @@
 										"$ref": "AAAAAAGHQmdeRUq4l30="
 									}
 								}
-							]
+							],
+							"documentation": "Steps:\n\nUser chooses to view Employer's payments for a specific Company they have worked for.\n\nPreconditions:\n\nUser worked or is currently working in the chosen Company.\n\nPostconditions:\n\nUser sees all the Payments by his Employer, only regarding the chosen Company."
 						}
 					]
 				},
@@ -14320,7 +14335,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGHQXkqqMp6UMc="
 					},
-					"name": "VerifyProvidedData"
+					"name": "VerifyProvidedData",
+					"documentation": "Steps:\n\nVerificator has insight into all new-come unhandled requests filed.\n\nVerificator presses on a request to review and verify the submitted data validity.\n\nPreconditions:\n\nAny verificator can review any unhandled request.\n\nPostconditions:\n\nVerificator gets to decide whether he accepts or declines the request."
 				},
 				{
 					"_type": "UMLUseCase",
@@ -14344,7 +14360,8 @@
 								"$ref": "AAAAAAGHQ3DAglfaqlg="
 							}
 						}
-					]
+					],
+					"documentation": "Steps:\n\nVerificator presses the \"Approve & register Firm\" button.\n\nPreconditions:\n\nVerificator has previously reviewed the submitted data and approves its validity.\n\nPostconditions:\n\nThe Firm has been registered in the APR service Database."
 				},
 				{
 					"_type": "UMLUseCase",
@@ -14368,7 +14385,8 @@
 								"$ref": "AAAAAAGHQ3DAglfaqlg="
 							}
 						}
-					]
+					],
+					"documentation": "Steps:\n\nVerificator presses the \"Decline request\" button.\n\nPreconditions:\n\nVerificator has previously reviewed the submitted data and disapproves its validity.\n\nPostconditions:\n\nThe Firm has NOT been registered in the APR service Database (as the request was declined)."
 				}
 			]
 		},
@@ -16866,7 +16884,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQx571H1iWXk="
 									},
-									"name": "User u"
+									"name": "User u",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -16885,7 +16904,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQx571H1iWXk="
 									},
-									"name": "int taxOnIncome"
+									"name": "int taxOnIncome",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -16893,7 +16913,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQx571H1iWXk="
 									},
-									"name": "int pensionAndDisabled"
+									"name": "int pensionAndDisabled",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -16901,7 +16922,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQx571H1iWXk="
 									},
-									"name": "int unemployed"
+									"name": "int unemployed",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -16909,7 +16931,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQx571H1iWXk="
 									},
-									"name": "int health"
+									"name": "int health",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -16917,7 +16940,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQx571H1iWXk="
 									},
-									"name": "int employeeNET"
+									"name": "int employeeNET",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -16925,7 +16949,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQx571H1iWXk="
 									},
-									"name": "int hoursOfWork"
+									"name": "int hoursOfWork",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -16933,7 +16958,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHQx571H1iWXk="
 									},
-									"name": "int firmTaxIdNum"
+									"name": "int firmTaxIdNum",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
